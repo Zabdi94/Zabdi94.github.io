@@ -1,1 +1,52 @@
+body{
+  
+  background-image: linear-gradient(skyblue,pink, burlywood;
+  color: black ;
+  font-family: "Lucida Console", "Courier New", monospace;
+     width: 750px;
+     margin: 50px auto;
+     border: 50px solid burlywood;
+   
+}
 
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-left: 1rem solid;
+  border-top: 10px solid burlywood;
+  border-bottom: 10px solid burlywood;
+  border-right: 1rem solid;
+  
+}
+img {
+  width: 150px;  
+ border-radius: 40px;
+  padding: 15px;
+}
+header {
+  font-size:
+}
+h1 {
+  border: 2px solid burlywood;
+  outline: burlywood  solid 10px;
+  margin: 5pc;  
+  padding: 25px;
+  text-align: center;
+}
+h4 {
+  font-size: 25px;
+  border-bottom: 5px solid burlywood;
+  text-align: 
+    
+}
+p {
+  
+}
+ul {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+}
+ul{
+  list-style-position: inside;
+}
